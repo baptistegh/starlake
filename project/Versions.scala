@@ -52,5 +52,5 @@ object Versions {
   val airflowTemplates = "0.4.4.3"
   val dagsterTemplates = "0.4.3.1"
   val orchestrationTemplates = "0.4.3.1"
-  val snowflakeTemplates = "0.3.4.1"
+  val snowflakeTemplates = "0.4.2"
 }
